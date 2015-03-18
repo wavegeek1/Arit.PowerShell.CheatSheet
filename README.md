@@ -1,1 +1,1 @@
-# Arit.PowerShell.CheatSheet
+# UCSB ARIT • PowerShell Cheat Sheet
